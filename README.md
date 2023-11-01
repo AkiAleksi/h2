@@ -34,7 +34,7 @@ Kokeilin päätteitä
 
 Tehtävä ratkaistu
 
-31.10.2023 klo klo 22:30. 1.10.2023 klo 19:00.
+31.10.2023 klo klo 22:30. 1.11.2023 klo 19:00.
 
 b.)
 
@@ -70,6 +70,9 @@ Rate Limited
 
 <img width="476" alt="fail1" src="https://github.com/AkiAleksi/h2/assets/112399816/80c292fe-0b87-4552-bfd2-ec26c7fe1424">
 
+1.11.2023 klo 20:27.
+
+c.)
 
 
 
