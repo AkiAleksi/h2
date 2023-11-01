@@ -34,4 +34,44 @@ Kokeilin päätteitä
 
 Tehtävä ratkaistu
 
-31.10.2023 klo klo 22:30.
+31.10.2023 klo klo 22:30. 1.10.2023 klo 19:00.
+
+b.)
+
+Ffufme harjoitusmaali asennettu
+
+<img width="132" alt="asennus" src="https://github.com/AkiAleksi/h2/assets/112399816/51204403-f8d9-484d-8de7-be8ccd11f8f7">
+
+Basic content disvovery
+
+<img width="394" alt="eka" src="https://github.com/AkiAleksi/h2/assets/112399816/90cb62ac-b80f-41bd-9b34-dad05b839800">
+
+Content Discovery With Recursion
+
+<img width="373" alt="toka" src="https://github.com/AkiAleksi/h2/assets/112399816/40680b0b-c344-41a3-acc9-a48a3295e459">
+
+Content Discovery With File Extensions
+
+<img width="339" alt="kolme" src="https://github.com/AkiAleksi/h2/assets/112399816/fd428172-e33a-4d28-8f96-78d437fa055c">
+
+No 404 status
+
+
+<img width="404" alt="4" src="https://github.com/AkiAleksi/h2/assets/112399816/a57b1dea-7953-47ed-9874-9daf505230af">
+
+
+<img width="400" alt="5" src="https://github.com/AkiAleksi/h2/assets/112399816/8e0233ed-2989-4c6c-8f7e-54e070553c8f">
+
+Param Mining
+
+<img width="411" alt="6" src="https://github.com/AkiAleksi/h2/assets/112399816/f5be78dd-ab45-4bfc-a2a4-0c363f853339">
+
+Rate Limited
+
+<img width="476" alt="fail1" src="https://github.com/AkiAleksi/h2/assets/112399816/80c292fe-0b87-4552-bfd2-ec26c7fe1424">
+
+
+
+
+
+
