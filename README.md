@@ -87,6 +87,44 @@ Yleinen skannaus.
 <img width="1030" alt="scan general" src="https://github.com/AkiAleksi/h2/assets/112399816/6d593019-2ec1-4d6b-a4e5-edfac168393d">
 
 
-tauko 2.11.2023 klo 11:44.
+tauko 2.11.2023 klo 11:44. 2.11.2023 klo 15:49
+
+d.)
+
+<img width="510" alt="ss" src="https://github.com/AkiAleksi/h2/assets/112399816/6e03d288-15a4-4a2d-8230-1651552a9eb8">
+
+<img width="1065" alt="nod" src="https://github.com/AkiAleksi/h2/assets/112399816/ca364b5f-fde7-4159-9ada-46be91725798">
+
+<img width="1075" alt="d1" src="https://github.com/AkiAleksi/h2/assets/112399816/64e8d3ff-7dd2-4792-bd85-846bea30aed9">
+
+e.)
+<img width="491" alt="-sn" src="https://github.com/AkiAleksi/h2/assets/112399816/f44f9e37-4415-4a4a-ac36-8ad88c19e3eb">
+
+<img width="918" alt="-sn noresult" src="https://github.com/AkiAleksi/h2/assets/112399816/734a7b35-0aa2-4859-902f-e8b4d05d5ebd">
+
+f.)
+
+<img width="1054" alt="-Pn" src="https://github.com/AkiAleksi/h2/assets/112399816/b27db739-661c-4e86-9742-2465e661e045">
 
 
+<img width="1130" alt="-Pn common" src="https://github.com/AkiAleksi/h2/assets/112399816/87f62ea1-349b-45b5-90d1-382d701b264e">
+
+g.)
+
+<img width="1059" alt="-sV" src="https://github.com/AkiAleksi/h2/assets/112399816/c5cc8da7-5985-44e9-bee4-e7e86c38ed65">
+
+h.)
+tulokset.nmap
+ Nopea tarkistus skannauksen tuloksista ja yleinen ymmärrys avoimista porteista ja palveluista.
+<img width="601" alt="h" src="https://github.com/AkiAleksi/h2/assets/112399816/1cfeaee0-ce08-42a2-8087-af709e98d8fd">
+
+tulokset.gnamp
+ Automaattinen tietojen käsittely ja analyysi skripteissä tai ohjelmissa.
+<img width="619" alt="Screenshot 2023-11-02 at 17 03 35" src="https://github.com/AkiAleksi/h2/assets/112399816/7f09efbc-b3d1-4e9b-b541-64d4f17354fe">
+
+tulokset.xml
+Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan jäsentää ja käsitellä automaattisesti.
+<img width="1680" alt="Screenshot 2023-11-02 at 17 05 22" src="https://github.com/AkiAleksi/h2/assets/112399816/5bb87784-dd99-4961-85bb-fb27146a9ffb">
+
+
+skanna
