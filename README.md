@@ -154,3 +154,5 @@ l.)
 
 UDP-skannaus on hankalaa ja epäluotettavaa useista syistä. Ei-yhteysorientoitunut protokolla,
 puuttuvat vahvistukset, palomuurisuodatus, monet suljetut palvelut ja vasteaika.
+
+2.11.2023 klo 18:10.
