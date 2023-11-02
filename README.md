@@ -149,3 +149,8 @@ k.)
 <img width="600" alt="Screenshot 2023-11-02 at 17 56 33" src="https://github.com/AkiAleksi/h2/assets/112399816/122ae0da-c6e4-482d-93bc-92a9aa7c8e80">
 
 <img width="1069" alt="Screenshot 2023-11-02 at 17 58 05" src="https://github.com/AkiAleksi/h2/assets/112399816/38fbb8b8-2f3c-47ab-a71b-411a5e7c0313">
+
+l.)
+
+UDP-skannaus on hankalaa ja epäluotettavaa useista syistä. Ei-yhteysorientoitunut protokolla,
+puuttuvat vahvistukset, palomuurisuodatus, monet suljetut palvelut ja vasteaika.
