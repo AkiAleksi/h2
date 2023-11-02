@@ -116,14 +116,17 @@ g.)
 h.)
 tulokset.nmap
  Nopea tarkistus skannauksen tuloksista ja yleinen ymmärrys avoimista porteista ja palveluista.
+ 
 <img width="601" alt="h" src="https://github.com/AkiAleksi/h2/assets/112399816/1cfeaee0-ce08-42a2-8087-af709e98d8fd">
 
 tulokset.gnamp
  Automaattinen tietojen käsittely ja analyysi skripteissä tai ohjelmissa.
+ 
 <img width="619" alt="Screenshot 2023-11-02 at 17 03 35" src="https://github.com/AkiAleksi/h2/assets/112399816/7f09efbc-b3d1-4e9b-b541-64d4f17354fe">
 
 tulokset.xml
 Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan jäsentää ja käsitellä automaattisesti.
+
 <img width="1680" alt="Screenshot 2023-11-02 at 17 05 22" src="https://github.com/AkiAleksi/h2/assets/112399816/5bb87784-dd99-4961-85bb-fb27146a9ffb">
 
 
