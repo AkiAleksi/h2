@@ -132,3 +132,8 @@ Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan j
 
 
 skanna
+
+i.)
+
+<img width="676" alt="Screenshot 2023-11-02 at 17 45 52" src="https://github.com/AkiAleksi/h2/assets/112399816/0f1df28d-2736-4d1b-b9fd-42e2c4a1369a">
+
