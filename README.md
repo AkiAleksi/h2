@@ -137,3 +137,15 @@ i.)
 
 <img width="676" alt="Screenshot 2023-11-02 at 17 45 52" src="https://github.com/AkiAleksi/h2/assets/112399816/0f1df28d-2736-4d1b-b9fd-42e2c4a1369a">
 
+Tämä komento käyttää -vv-näppäintä, joten näet paljon yksityiskohtia skannauksesta. -sS-näppäin määrittelee SYN-skannauksen, joka on yksi Nmapin perusskannausmenetelmistä. -Pn-näppäin ohittaa ping-skannauksen ja mahdollistaa skannauksen vaikka kohde ei vastaisi ping-pyyntöihin.
+
+j.)
+
+<img width="1042" alt="Screenshot 2023-11-02 at 18 04 26" src="https://github.com/AkiAleksi/h2/assets/112399816/d2f1fd75-1881-47dc-8074-4930dda68356">
+
+
+k.)
+
+<img width="600" alt="Screenshot 2023-11-02 at 17 56 33" src="https://github.com/AkiAleksi/h2/assets/112399816/122ae0da-c6e4-482d-93bc-92a9aa7c8e80">
+
+<img width="1069" alt="Screenshot 2023-11-02 at 17 58 05" src="https://github.com/AkiAleksi/h2/assets/112399816/38fbb8b8-2f3c-47ab-a71b-411a5e7c0313">
