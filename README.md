@@ -2,6 +2,21 @@
 
 31.10.2023 klo 21.51.
 
+# x
+
+Hoikkala "joohoi" 2020: Still Fuzzing Faster (U fool). In HelSec Virtual meetup #1. (about 1 hour)
+
+Tiivistelmä:
+
+-web fuzzer on tietoturvatyökalu
+-Fuzzing on menetelmä, jossa syötetään suuri määrä satunnaista dataa 
+,jotta voidaan tarkkailla järjestelmän reagointia tälläiseen syötteeseen.
+-Web-fuzzerit toimivat usein HTTP-protokollan päällä ja lähettävät HTTP-pyyntöjä sovelluksen eri osiin satunnaisesti muokatuilla tai manipuloiduilla syötteillä.
+-Fuff on joohoi:n luoma web fuzzer
+-Fuff tarvitsee sanakirjan. Esim. Yleiset verkkopolkuosoitteet.
+-fuff korvaa kohde url:sta FUZZ kohdan sanakirjasta tuleville sanoilla.
+-ffuf vastauksia voi filtteröidä.
+
 # a.)
 
 Tehtävänanto:
