@@ -120,7 +120,7 @@ Portti vastaa. Se on auki.
 
 
 Sieppauksessa näkyy kiinni olevat portit. Yritetty ottaa yhteys, mutta ei vastausta.
-Vaikuttaisi, että nyt myös MYSQL-palvelin portti on suljettu.
+
 
 <img width="1030" alt="scan general" src="https://github.com/AkiAleksi/h2/assets/112399816/6d593019-2ec1-4d6b-a4e5-edfac168393d">
 
