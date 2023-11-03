@@ -121,7 +121,7 @@ Sieppauksessa näkyy kiinni olevat portit. Yritetty ottaa yhteys, mutta ei vasta
 
 tauko 2.11.2023 klo 11:44. 2.11.2023 klo 15:49
 
-d.)
+# d.)
 
 <img width="510" alt="ss" src="https://github.com/AkiAleksi/h2/assets/112399816/6e03d288-15a4-4a2d-8230-1651552a9eb8">
 
@@ -129,24 +129,24 @@ d.)
 
 <img width="1075" alt="d1" src="https://github.com/AkiAleksi/h2/assets/112399816/64e8d3ff-7dd2-4792-bd85-846bea30aed9">
 
-e.)
+# e.)
 
 <img width="491" alt="-sn" src="https://github.com/AkiAleksi/h2/assets/112399816/f44f9e37-4415-4a4a-ac36-8ad88c19e3eb">
 
 <img width="918" alt="-sn noresult" src="https://github.com/AkiAleksi/h2/assets/112399816/734a7b35-0aa2-4859-902f-e8b4d05d5ebd">
 
-f.)
+# f.)
 
 <img width="1054" alt="-Pn" src="https://github.com/AkiAleksi/h2/assets/112399816/b27db739-661c-4e86-9742-2465e661e045">
 
 
 <img width="1130" alt="-Pn common" src="https://github.com/AkiAleksi/h2/assets/112399816/87f62ea1-349b-45b5-90d1-382d701b264e">
 
-g.)
+# g.)
 
 <img width="1059" alt="-sV" src="https://github.com/AkiAleksi/h2/assets/112399816/c5cc8da7-5985-44e9-bee4-e7e86c38ed65">
 
-h.)
+# h.)
 tulokset.nmap
  Nopea tarkistus skannauksen tuloksista ja yleinen ymmärrys avoimista porteista ja palveluista.
  
@@ -165,24 +165,24 @@ Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan j
 
 skanna
 
-i.)
+# i.)
 
 <img width="676" alt="Screenshot 2023-11-02 at 17 45 52" src="https://github.com/AkiAleksi/h2/assets/112399816/0f1df28d-2736-4d1b-b9fd-42e2c4a1369a">
 
 Tämä komento käyttää -vv-näppäintä, joten näet paljon yksityiskohtia skannauksesta. -sS-näppäin määrittelee SYN-skannauksen, joka on yksi Nmapin perusskannausmenetelmistä. -Pn-näppäin ohittaa ping-skannauksen ja mahdollistaa skannauksen vaikka kohde ei vastaisi ping-pyyntöihin.
 
-j.)
+# j.)
 
 <img width="1042" alt="Screenshot 2023-11-02 at 18 04 26" src="https://github.com/AkiAleksi/h2/assets/112399816/d2f1fd75-1881-47dc-8074-4930dda68356">
 
 
-k.)
+# k.)
 
 <img width="600" alt="Screenshot 2023-11-02 at 17 56 33" src="https://github.com/AkiAleksi/h2/assets/112399816/122ae0da-c6e4-482d-93bc-92a9aa7c8e80">
 
 <img width="1069" alt="Screenshot 2023-11-02 at 17 58 05" src="https://github.com/AkiAleksi/h2/assets/112399816/38fbb8b8-2f3c-47ab-a71b-411a5e7c0313">
 
-l.)
+# l.)
 
 UDP-skannaus on hankalaa ja epäluotettavaa useista syistä. Ei-yhteysorientoitunut protokolla,
 puuttuvat vahvistukset, palomuurisuodatus, monet suljetut palvelut ja vasteaika.
