@@ -206,8 +206,14 @@ Tämä komento käyttää -vv-näppäintä, joten näet paljon yksityiskohtia sk
 
 # j.)
 
-<img width="1042" alt="Screenshot 2023-11-02 at 18 04 26" src="https://github.com/AkiAleksi/h2/assets/112399816/d2f1fd75-1881-47dc-8074-4930dda68356">
+nmap skannauksessa yritetään selvittää,
+mitkä portit ovat auki palvelimella.
+Sieppauksessa näkyy useita peräkkäisiä porttipyyntöjä samasta lähteestä.
+Se on merkki skannauksesta.
 
+<img width="1183" alt="piilo" src="https://github.com/AkiAleksi/h2/assets/112399816/5036a13d-3b32-4f39-909a-78db2207182c">
+
+nmap skannauksen piilottaminen on haasteellista.
 
 # k.)
 
