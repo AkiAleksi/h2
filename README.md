@@ -6,7 +6,8 @@ a.)
 
 Fuff. Ratkaise Teron ffuf-haastebinääri. Artikkelista Find Hidden Web Directories - Fuzz URLs with ffuf voi olla apua.
 
-Seurasin ohjeita ja käynnistin dirfutz-1 niiden mukaan.
+Seurasin ohjeita ja latasi harjoitusmaalin dirfutz-1 niiden mukaan.
+Laitoin harjoitusmaalin käyntiin.
 
 <img width="653" alt="dirfutz" src="https://github.com/AkiAleksi/h2/assets/112399816/e657c1fb-e418-4eee-8429-1324ae888d92">
 
