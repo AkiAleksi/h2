@@ -216,8 +216,17 @@ Se on merkki skannauksesta.
 nmap skannauksen piilottaminen on haasteellista.
 
 # k.)
+Ajoin nmap -sU <Oma IP osoite>
+
 
 <img width="600" alt="Screenshot 2023-11-02 at 17 56 33" src="https://github.com/AkiAleksi/h2/assets/112399816/122ae0da-c6e4-482d-93bc-92a9aa7c8e80">
+
+vastauksessa näkyy UDP-paketteja, jotka on lähetetty tiettyihin portteihin.
+Pyritään selvittämään, ovatko ne avoinna vai suljettuja.
+
+<img width="1204" alt="kokk" src="https://github.com/AkiAleksi/h2/assets/112399816/f4933ff8-ec9f-4e35-8c67-23df7211dc5a">
+
+
 
 <img width="1069" alt="Screenshot 2023-11-02 at 17 58 05" src="https://github.com/AkiAleksi/h2/assets/112399816/38fbb8b8-2f3c-47ab-a71b-411a5e7c0313">
 
