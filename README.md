@@ -144,7 +144,7 @@ nmap -sn <kohde>
 
 <img width="590" alt="onni2" src="https://github.com/AkiAleksi/h2/assets/112399816/0bc906dd-01c3-4ba3-85a1-85c9f16da275">
 
-Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoitteeseen. Nmap sai vastauksen ping-pyynnöistä, se merkitsi koneen eläväksi (host up). 
+Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoitteeseen. Nmap sai vastauksen ping-pyynnöistä, se merkitsi koneen eläväksi (host is up). 
 
 <img width="1102" alt="onni" src="https://github.com/AkiAleksi/h2/assets/112399816/f20702a3-69a6-447a-bb4b-e9118a6ff7ef">
 
