@@ -138,7 +138,7 @@ Lähettää SYN-paketteja portteihin. Kiinni olevat portit eivät vastaa.
 
 <img width="1065" alt="nod" src="https://github.com/AkiAleksi/h2/assets/112399816/ca364b5f-fde7-4159-9ada-46be91725798">
 
-<img width="1075" alt="d1" src="https://github.com/AkiAleksi/h2/assets/112399816/64e8d3ff-7dd2-4792-bd85-846bea30aed9">
+
 
 # e.)
 nmap -sn <kohde>
