@@ -104,16 +104,17 @@ Löysin puuttuvan parametrin debug.
 
 # c.)
 
-Porttiskannaa paikallinen kone (127.0.0.2 tms), sieppaa liikenne snifferillä, analysoi.
+Porttiskannasin oman koneeni.
 nmap TCP connect scan -sT "Oma ip-osoite"
 
 <img width="498" alt="nmap" src="https://github.com/AkiAleksi/h2/assets/112399816/a3f5c2ee-8f8c-4293-92d1-de0db16c23e0">
 
-Mysql palvelin. 
+sieppaa liikenteen wiresharkilla. Mysql palvelin, joka on päällä portissa 3306 näkyy sieppauksessa.
 
 <img width="1078" alt="scan mysql" src="https://github.com/AkiAleksi/h2/assets/112399816/1b67151f-7e68-4af8-b2b4-0b1e7f68113b">
 
-Yleinen skannaus.
+
+Sieppauksessa näkyy kiinni olevat portit. Yritetty ottaa yhteys, mutta ei vastausta.
 
 <img width="1030" alt="scan general" src="https://github.com/AkiAleksi/h2/assets/112399816/6d593019-2ec1-4d6b-a4e5-edfac168393d">
 
