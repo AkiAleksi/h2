@@ -49,6 +49,7 @@ Ffufme harjoitusmaali asennettu
 # Basic content disvovery
 
 Ajoin komennon ffuf -w ~/words/common.txt -u http://ffuf.me/cd/basic/FUZZ. Pitäis löytyä class ja development.log.
+
 <img width="394" alt="eka" src="https://github.com/AkiAleksi/h2/assets/112399816/90cb62ac-b80f-41bd-9b34-dad05b839800">
 
 class ja development.log tiedostot löytyi.
@@ -75,6 +76,7 @@ Löytyi!
 
 Ajoin ensin komennon ffuf -w ~/wordlists/common.txt -u http://ffuf.me/cd/no404/FUZZ.
 Sen jälkeen filtteröin 669 bitillä. 
+
 <img width="404" alt="4" src="https://github.com/AkiAleksi/h2/assets/112399816/a57b1dea-7953-47ed-9874-9daf505230af">
 
 
@@ -139,6 +141,7 @@ Lähettää SYN-paketteja portteihin. Kiinni olevat portit eivät vastaa.
 nmap -sn <kohde>
 
 <img width="590" alt="onni2" src="https://github.com/AkiAleksi/h2/assets/112399816/0bc906dd-01c3-4ba3-85a1-85c9f16da275">
+
 Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoitteeseen. Nmap sai vastauksen ping-pyynnöistä, se merkitsi koneen eläväksi (host up). 
 
 <img width="1102" alt="onni" src="https://github.com/AkiAleksi/h2/assets/112399816/f20702a3-69a6-447a-bb4b-e9118a6ff7ef">
