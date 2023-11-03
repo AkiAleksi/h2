@@ -187,6 +187,7 @@ Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoittees
 
 # f.)
 
+nmap -Pn komento poistaa Nmapin oletustoiminnon, joka yrittää määrittää, ovatko tietokoneet tai laitteet verkossa ennen skannaamista.
 Sieppauksessa näkyy nmap -Pn <kohde> tulokset.
 
 <img width="1054" alt="-Pn" src="https://github.com/AkiAleksi/h2/assets/112399816/b27db739-661c-4e86-9742-2465e661e045">
