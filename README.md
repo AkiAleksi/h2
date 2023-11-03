@@ -1,6 +1,6 @@
 # h2
 
-31.10.2023 klo 21.51.
+Tehtävien tekeminen alkaa 31.10.2023 klo 21.51.
 
 # x
 Videomateriaali:
