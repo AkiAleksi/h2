@@ -137,9 +137,13 @@ Lähettää SYN-paketteja portteihin. Kiinni olevat portit eivät vastaa.
 
 # e.)
 
-<img width="491" alt="-sn" src="https://github.com/AkiAleksi/h2/assets/112399816/f44f9e37-4415-4a4a-ac36-8ad88c19e3eb">
+<img width="590" alt="onni2" src="https://github.com/AkiAleksi/h2/assets/112399816/0bc906dd-01c3-4ba3-85a1-85c9f16da275">
 
-<img width="918" alt="-sn noresult" src="https://github.com/AkiAleksi/h2/assets/112399816/734a7b35-0aa2-4859-902f-e8b4d05d5ebd">
+
+<img width="1102" alt="onni" src="https://github.com/AkiAleksi/h2/assets/112399816/f20702a3-69a6-447a-bb4b-e9118a6ff7ef">
+
+
+
 
 # f.)
 
