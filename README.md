@@ -212,22 +212,26 @@ Palvelin käyttää AirTunes rtspd -ohjelmistoa ja sen versio on 690.7.1. Tieto 
 # h.)
 
 Ajoin komennon nmap output files -oA foo. 
-Sillä sain kolme tiedosto tyyppiä tulokset.nmap, tulokset.gnamp ja tulokset.xml.
+Sillä sain kolme tiedosto tyyppiä foo.nmap, foo.gnamp ja foo.xml.
 
-tulokset.nmap
+ foo.nmap
  Nopea tarkistus skannauksen tuloksista ja yleinen ymmärrys avoimista porteista ja palveluista.
  
-<img width="601" alt="h" src="https://github.com/AkiAleksi/h2/assets/112399816/1cfeaee0-ce08-42a2-8087-af709e98d8fd">
+<img width="677" alt="Screenshot 2023-11-03 at 18 12 56" src="https://github.com/AkiAleksi/h2/assets/112399816/8e0703ee-5583-4d4c-bf7e-cf02104b675d">
 
-tulokset.gnamp
+
+ foo.gnamp
  Automaattinen tietojen käsittely ja analyysi skripteissä tai ohjelmissa.
  
-<img width="619" alt="Screenshot 2023-11-02 at 17 03 35" src="https://github.com/AkiAleksi/h2/assets/112399816/7f09efbc-b3d1-4e9b-b541-64d4f17354fe">
+<img width="745" alt="foo gnamp" src="https://github.com/AkiAleksi/h2/assets/112399816/29713cbb-8a03-4c0f-a7e5-4e51aa4ae197">
 
-tulokset.xml
+
+foo.xml
 Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan jäsentää ja käsitellä automaattisesti.
 
-<img width="1680" alt="Screenshot 2023-11-02 at 17 05 22" src="https://github.com/AkiAleksi/h2/assets/112399816/5bb87784-dd99-4961-85bb-fb27146a9ffb">
+
+
+<img width="1680" alt="foo" src="https://github.com/AkiAleksi/h2/assets/112399816/92853de6-4aa3-46b3-99d0-9b078223b391">
 
 
 
@@ -244,11 +248,11 @@ Tässä komennossa on -vv-näppäin. Se kertoo paljon yksityiskohtia skannaukses
 nmap skannauksessa yritetään selvittää,
 mitkä portit ovat auki palvelimella.
 Sieppauksessa näkyy useita peräkkäisiä porttipyyntöjä samasta lähteestä.
-Se on merkki skannauksesta.
+Se on merkki skannauksesta. Todistin näin, että nmap skannaus on helposti havaittavissa.
 
 <img width="1183" alt="piilo" src="https://github.com/AkiAleksi/h2/assets/112399816/5036a13d-3b32-4f39-909a-78db2207182c">
 
-nmap skannauksen piilottaminen on haasteellista.
+nmap skannauksen piilottaminen on siis haasteellista.
 
 # k.)
 Ajoin nmap -sU <Oma IP osoite>
