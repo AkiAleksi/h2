@@ -158,9 +158,13 @@ Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoittees
 
 <img width="1130" alt="-Pn common" src="https://github.com/AkiAleksi/h2/assets/112399816/87f62ea1-349b-45b5-90d1-382d701b264e">
 
+Sieppauksessa näkyy TCP-pyyntöjä.
+
 # g.)
 
 <img width="1059" alt="-sV" src="https://github.com/AkiAleksi/h2/assets/112399816/c5cc8da7-5985-44e9-bee4-e7e86c38ed65">
+
+
 
 # h.)
 tulokset.nmap
