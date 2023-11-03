@@ -47,8 +47,10 @@ Ffufme harjoitusmaali asennettu
 <img width="132" alt="asennus" src="https://github.com/AkiAleksi/h2/assets/112399816/51204403-f8d9-484d-8de7-be8ccd11f8f7">
 
 Basic content disvovery
-
+Ajoin komennon ffuf -w ~/words/common.txt -u http://ffuf.me/cd/basic/FUZZ. Pitäis löytyä class ja development.log.
 <img width="394" alt="eka" src="https://github.com/AkiAleksi/h2/assets/112399816/90cb62ac-b80f-41bd-9b34-dad05b839800">
+
+class ja development.log tiedostot löytyi.
 
 Content Discovery With Recursion
 
