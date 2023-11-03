@@ -231,8 +231,10 @@ Pyritään selvittämään, ovatko ne avoinna vai suljettuja.
 <img width="1069" alt="Screenshot 2023-11-02 at 17 58 05" src="https://github.com/AkiAleksi/h2/assets/112399816/38fbb8b8-2f3c-47ab-a71b-411a5e7c0313">
 
 # l.)
+Lähde https://windowsbulletin.com/fi/suorita-verkkoporttiskannaus-porttiskannerilla/
 
-UDP-skannaus on hankalaa ja epäluotettavaa useista syistä. Ei-yhteysorientoitunut protokolla,
-puuttuvat vahvistukset, palomuurisuodatus, monet suljetut palvelut ja vasteaika.
+UDP ei vaadi yhteyden muodostamista ja on epäluotettava. 
+Tiedot lähetetään määräpaikasta riippumatta. Siksi ei ole takeita siitä, että tiedot pääsevät sinne.
+
 
 2.11.2023 klo 18:10.
