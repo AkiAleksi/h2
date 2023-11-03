@@ -3,6 +3,7 @@
 31.10.2023 klo 21.51.
 
 # x
+Videomateriaali:
 
 Hoikkala "joohoi" 2020: Still Fuzzing Faster (U fool). In HelSec Virtual meetup #1. (about 1 hour)
 
