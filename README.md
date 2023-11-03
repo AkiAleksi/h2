@@ -7,15 +7,15 @@ a.)
 Fuff. Ratkaise Teron ffuf-haastebinääri. Artikkelista Find Hidden Web Directories - Fuzz URLs with ffuf voi olla apua.
 
 Seurasin ohjeita ja latasi harjoitusmaalin dirfutz-1 niiden mukaan.
-Laitoin harjoitusmaalin käyntiin.
+Laitoin harjoitusmaalin käyntiin. Asensin ffuf ja common.txt.
 
 <img width="653" alt="dirfutz" src="https://github.com/AkiAleksi/h2/assets/112399816/e657c1fb-e418-4eee-8429-1324ae888d92">
 
-selvitin komennon avulla.
+Ajoin komennon. $ ./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ
 
 <img width="338" alt="eka komento" src="https://github.com/AkiAleksi/h2/assets/112399816/53a54c8d-b1d7-4c71-ba56-63e931469c8e">
 
-Vastauksissa yleisin...
+Tutkin epähaluttujen vastausten yhteisiä piirteitä. 
 
 <img width="388" alt="tulos" src="https://github.com/AkiAleksi/h2/assets/112399816/feeb79a7-e278-4498-881c-147ad088c811">
 
