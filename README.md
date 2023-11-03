@@ -198,13 +198,14 @@ Sieppauksessa näkyy nmap -Pn <kohde> tulokset.
 
 # g.)
 
-Käytin suodatinta. Suodatin itselleni HTTP-palvelimen. 
-Kaikki palvelimet eivät välttämättä käytä versionumeroa 'Server', turvallisuussyistä.
-En löytänyt 'Server' kohtaa pyyntöjen tai vastausten otsakkeista.
-En saanut palvelimen tarkkaa versiota.
+Ajoin ensin nmap -sV. Sen jälkeen tein sieppauksen. 
 
-<img width="1190" alt="xd" src="https://github.com/AkiAleksi/h2/assets/112399816/ffed14f1-e963-468d-aeeb-90f070ba9c65">
+<img width="602" alt="palvelinversio" src="https://github.com/AkiAleksi/h2/assets/112399816/e1afa539-02f1-43aa-ac4c-436df7c31ace">
 
+Palvelin käyttää AirTunes rtspd -ohjelmistoa ja sen versio on 690.7.1. Tieto löytyy sekä portista 5000 että portista 7000. Molemmat ovat avoinna RTSP-palvelulle.
+
+
+<img width="1162" alt="palvelin2" src="https://github.com/AkiAleksi/h2/assets/112399816/a5832d49-bcbe-4a29-b314-53fc6dc6a13d">
 
 
 
