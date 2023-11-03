@@ -154,16 +154,21 @@ Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoittees
 
 # f.)
 
+Sieppauksessa näkyy nmap -Pn <kohde> tulokset.
+
 <img width="1054" alt="-Pn" src="https://github.com/AkiAleksi/h2/assets/112399816/b27db739-661c-4e86-9742-2465e661e045">
 
 
 <img width="1130" alt="-Pn common" src="https://github.com/AkiAleksi/h2/assets/112399816/87f62ea1-349b-45b5-90d1-382d701b264e">
 
-Sieppauksessa näkyy TCP-pyyntöjä.
+
 
 # g.)
 
 Käytin suodatinta. Suodatin itselleni HTTP-palvelimen. 
+Kaikki palvelimet eivät välttämättä käytä versionumeroa 'Server', turvallisuussyistä.
+En löytänyt 'Server' kohtaa pyyntöjen tai vastausten otsakkeista.
+En saanut palvelimen tarkkaa versiota.
 
 <img width="1190" alt="xd" src="https://github.com/AkiAleksi/h2/assets/112399816/ffed14f1-e963-468d-aeeb-90f070ba9c65">
 
@@ -171,6 +176,10 @@ Käytin suodatinta. Suodatin itselleni HTTP-palvelimen.
 
 
 # h.)
+
+Ajoin komennon nmap output files -oA foo. 
+Sillä sain kolme tiedosto tyyppiä tulokset.nmap, tulokset.gnamp ja tulokset.xml.
+
 tulokset.nmap
  Nopea tarkistus skannauksen tuloksista ja yleinen ymmärrys avoimista porteista ja palveluista.
  
@@ -187,7 +196,7 @@ Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan j
 <img width="1680" alt="Screenshot 2023-11-02 at 17 05 22" src="https://github.com/AkiAleksi/h2/assets/112399816/5bb87784-dd99-4961-85bb-fb27146a9ffb">
 
 
-skanna
+
 
 # i.)
 
