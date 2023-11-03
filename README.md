@@ -168,7 +168,7 @@ nmap -sn <kohde>
 
 <img width="590" alt="onni2" src="https://github.com/AkiAleksi/h2/assets/112399816/0bc906dd-01c3-4ba3-85a1-85c9f16da275">
 
-Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoitteeseen. Nmap sai vastauksen ping-pyynnöistä, se merkitsi koneen eläväksi (host is up). 
+Komento nmap -sn <kohde> lähettää ping-pyynnöt määritettyyn kohdeosoitteeseen. Nmap sai vastauksen ping-pyynnöistä, se merkitsi koneen eläväksi (1 host up). 
 
 <img width="1102" alt="onni" src="https://github.com/AkiAleksi/h2/assets/112399816/f20702a3-69a6-447a-bb4b-e9118a6ff7ef">
 
@@ -225,7 +225,8 @@ Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan j
 
 <img width="676" alt="Screenshot 2023-11-02 at 17 45 52" src="https://github.com/AkiAleksi/h2/assets/112399816/0f1df28d-2736-4d1b-b9fd-42e2c4a1369a">
 
-Tässä komennossa on -vv-näppäin. Se kertoo paljon yksityiskohtia skannauksesta. -sS-näppäin määrittelee SYN-skannauksen, joka on yksi Nmapin perusskannausmenetelmistä. -Pn-näppäin ohittaa ping-skannauksen ja mahdollistaa skannauksen vaikka kohde ei vastaisi ping-pyyntöihin.
+Käytin ajonaikaisia toimintoja
+Tässä komennossa on -vv-näppäin. Se kertoo paljon yksityiskohtia skannauksesta. -sS-näppäin määrittelee SYN-skannauksen, joka on yksi Nmapin perusskannausmenetelmistä. -Pn-näppäin ohittaa ping-skannauksen ja mahdollistaa skannauksen vaikka kohde ei vastaisi ping-pyyntöihin. Lähde chatGPT: https://chat.openai.com/auth/login
 
 # j.)
 
