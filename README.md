@@ -122,7 +122,7 @@ Sieppauksessa näkyy kiinni olevat portit. Yritetty ottaa yhteys, mutta ei vasta
 tauko 2.11.2023 klo 11:44. 2.11.2023 klo 15:49
 
 # d.)
-
+nmap -Ss "oma IP-osoite". (Stealth Scan)
 <img width="510" alt="ss" src="https://github.com/AkiAleksi/h2/assets/112399816/6e03d288-15a4-4a2d-8230-1651552a9eb8">
 
 <img width="1065" alt="nod" src="https://github.com/AkiAleksi/h2/assets/112399816/ca364b5f-fde7-4159-9ada-46be91725798">
