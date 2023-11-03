@@ -27,10 +27,11 @@ Tiivistelmä:
 # a.)
 
 Tehtävänanto:
+
 Can you find two URLs: Admin page and Version control related page
 
-Seurasin ohjeita ja latasi harjoitusmaalin dirfutz-1 niiden mukaan.
-Laitoin harjoitusmaalin käyntiin. Asensin ffuf ja common.txt.
+Seurasin ohjeita ja latasin harjoitusmaalin dirfutz-1 niiden mukaan.
+Laitoin harjoitusmaalin käyntiin. Asensin myös ffuf ja common.txt.
 
 <img width="653" alt="dirfutz" src="https://github.com/AkiAleksi/h2/assets/112399816/e657c1fb-e418-4eee-8429-1324ae888d92">
 
@@ -224,7 +225,7 @@ Tarkempi analyysi ja tietojen käsittely ohjelmissa, joissa XML-tiedot voidaan j
 
 <img width="676" alt="Screenshot 2023-11-02 at 17 45 52" src="https://github.com/AkiAleksi/h2/assets/112399816/0f1df28d-2736-4d1b-b9fd-42e2c4a1369a">
 
-Tämä komento käyttää -vv-näppäintä, joten näet paljon yksityiskohtia skannauksesta. -sS-näppäin määrittelee SYN-skannauksen, joka on yksi Nmapin perusskannausmenetelmistä. -Pn-näppäin ohittaa ping-skannauksen ja mahdollistaa skannauksen vaikka kohde ei vastaisi ping-pyyntöihin.
+Tässä komennossa on -vv-näppäin. Se kertoo paljon yksityiskohtia skannauksesta. -sS-näppäin määrittelee SYN-skannauksen, joka on yksi Nmapin perusskannausmenetelmistä. -Pn-näppäin ohittaa ping-skannauksen ja mahdollistaa skannauksen vaikka kohde ei vastaisi ping-pyyntöihin.
 
 # j.)
 
