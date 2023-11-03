@@ -61,7 +61,7 @@ Sain päätteet wp-admin ja .git. Kokeilin päätteitä.
 
 Tehtävä ratkaistu
 
-31.10.2023 klo klo 22:30. 1.11.2023 klo 19:00.
+Tehtävien teko sessio päättyi 31.10.2023 klo klo 22:30. Tehtävien teko jatkuu 1.11.2023 klo 19:00.
 
 # b.)
 
@@ -99,7 +99,7 @@ Löytyi!
 
 # No 404 status
 
-Ajoin ensin komennon ffuf -w ~/wordlists/common.txt -u http://ffuf.me/cd/no404/FUZZ.
+Ajoin ensin komennon ffuf -w ~/words/common.txt -u http://ffuf.me/cd/no404/FUZZ.
 Sen jälkeen filtteröin 669 bitillä. 
 
 <img width="404" alt="4" src="https://github.com/AkiAleksi/h2/assets/112399816/a57b1dea-7953-47ed-9874-9daf505230af">
@@ -146,7 +146,7 @@ nmap TCP connect scan -sT "Oma ip-osoite"
 
 <img width="498" alt="nmap" src="https://github.com/AkiAleksi/h2/assets/112399816/a3f5c2ee-8f8c-4293-92d1-de0db16c23e0">
 
-sieppaa liikenteen wiresharkilla. Mysql palvelin, joka on päällä portissa 3306 näkyy sieppauksessa.
+sieppasin liikenteen wiresharkilla. Mysql palvelin, joka on päällä portissa 3306 näkyy sieppauksessa.
 Portti vastaa. Se on auki.
 
 <img width="1078" alt="scan mysql" src="https://github.com/AkiAleksi/h2/assets/112399816/1b67151f-7e68-4af8-b2b4-0b1e7f68113b">
@@ -158,7 +158,7 @@ Sieppauksessa näkyy kiinni olevat portit. Yritetty ottaa yhteys, mutta ei vasta
 <img width="1030" alt="scan general" src="https://github.com/AkiAleksi/h2/assets/112399816/6d593019-2ec1-4d6b-a4e5-edfac168393d">
 
 
-tauko 2.11.2023 klo 11:44. 2.11.2023 klo 15:49
+Tehtävien teko sessio päättyi 2.11.2023 klo 11:44. Tehtävien teko jatkuu 2.11.2023 klo 15:49
 
 # d.)
 
@@ -271,4 +271,4 @@ UDP ei vaadi yhteyden muodostamista ja on epäluotettava.
 Tiedot lähetetään määräpaikasta riippumatta. Siksi ei ole takeita siitä, että tiedot pääsevät sinne.
 
 
-2.11.2023 klo 18:10.
+Tehtävät tehty 2.11.2023 klo 18:10.
