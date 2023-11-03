@@ -125,7 +125,17 @@ Löysin puuttuvan parametrin debug.
 
 # Rate Limited
 
+Ajoin komennon: ffuf -w ~/wordlists/common.txt -u http://ffuf.test/cd/rate/FUZZ -mc 200,429
+
+Komennon ei ollut tarkoituskaan toimia. Sain erroreita enkä löytänyt oraclea.
+
+Sen jälkeen ajoin komennon: ffuf -w ~/words/common.txt -t 5 -p 0.1 -u http://ffuf.test/cd/rate/FUZZ -mc 200,429
+
+
 <img width="476" alt="fail1" src="https://github.com/AkiAleksi/h2/assets/112399816/80c292fe-0b87-4552-bfd2-ec26c7fe1424">
+
+Sain saman vastauksen kuin aikaisemminkin. Errorit tulevat yhä edelleen eikä oraclea löydy.
+En saanut tätä komentoa toimimaan valitettavasti, vaikka yritin pitkään. Tämä kohta jäi valitettavasti ratkaisematta.
 
 1.11.2023 klo 20:27. 2.11.2023 klo 11:34.
 
