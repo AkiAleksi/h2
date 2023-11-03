@@ -273,3 +273,11 @@ Tiedot lähetetään määräpaikasta riippumatta. Siksi ei ole takeita siitä, 
 
 
 Tehtävät tehty 2.11.2023 klo 18:10.
+
+# Lähteet
+
+https://windowsbulletin.com/fi/suorita-verkkoporttiskannaus-porttiskannerilla/
+
+https://chat.openai.com/auth/login
+
+Hoikkala "joohoi" 2020: Still Fuzzing Faster (U fool). In HelSec Virtual meetup #1.
