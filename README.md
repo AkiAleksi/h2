@@ -50,7 +50,9 @@ Ffufme harjoitusmaali asennettu
 
 Ajoin komennon ffuf -w ~/words/common.txt -u http://ffuf.me/cd/basic/FUZZ. Pitäis löytyä class ja development.log.
 
+
 <img width="394" alt="eka" src="https://github.com/AkiAleksi/h2/assets/112399816/90cb62ac-b80f-41bd-9b34-dad05b839800">
+
 
 class ja development.log tiedostot löytyi.
 
