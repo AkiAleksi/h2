@@ -15,7 +15,9 @@ Ajoin komennon. $ ./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ
 
 <img width="338" alt="eka komento" src="https://github.com/AkiAleksi/h2/assets/112399816/53a54c8d-b1d7-4c71-ba56-63e931469c8e">
 
-Tutkin epähaluttujen vastausten yhteisiä piirteitä. 
+Tutkin epähaluttujen vastausten yhteisiä piirteitä. Vaikuttaisi, että niiden koko on 154 bittiä.
+Filtteröin sillä. $ ./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ -fs 154.
+
 
 <img width="388" alt="tulos" src="https://github.com/AkiAleksi/h2/assets/112399816/feeb79a7-e278-4498-881c-147ad088c811">
 
