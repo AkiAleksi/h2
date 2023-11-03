@@ -110,6 +110,7 @@ nmap TCP connect scan -sT "Oma ip-osoite"
 <img width="498" alt="nmap" src="https://github.com/AkiAleksi/h2/assets/112399816/a3f5c2ee-8f8c-4293-92d1-de0db16c23e0">
 
 sieppaa liikenteen wiresharkilla. Mysql palvelin, joka on päällä portissa 3306 näkyy sieppauksessa.
+Portti vastaa. Se on auki.
 
 <img width="1078" alt="scan mysql" src="https://github.com/AkiAleksi/h2/assets/112399816/1b67151f-7e68-4af8-b2b4-0b1e7f68113b">
 
@@ -127,6 +128,8 @@ nmap -Ss "oma IP-osoite". (Stealth Scan)
 
 
 <img width="510" alt="ss" src="https://github.com/AkiAleksi/h2/assets/112399816/6e03d288-15a4-4a2d-8230-1651552a9eb8">
+
+Lähettää SYN-paketteja portteihin. Kiinni olevat portit eivät vastaa.
 
 <img width="1065" alt="nod" src="https://github.com/AkiAleksi/h2/assets/112399816/ca364b5f-fde7-4159-9ada-46be91725798">
 
