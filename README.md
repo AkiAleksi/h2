@@ -25,7 +25,7 @@ Annoin komennon $ ./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ -fs 154.
 
 <img width="428" alt="tulokset" src="https://github.com/AkiAleksi/h2/assets/112399816/4969fcf8-040c-4637-a267-e3355927c0bd">
 
-Sain päätteet wp-admin ja git.
+Sain päätteet wp-admin ja .git. Kokeilin päätteitä.
 
 
 <img width="796" alt="vastausa1" src="https://github.com/AkiAleksi/h2/assets/112399816/8e4a4c32-a2f8-4f78-8ce9-ef94dd0d6bc5">
