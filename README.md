@@ -120,6 +120,7 @@ Portti vastaa. Se on auki.
 
 
 Sieppauksessa näkyy kiinni olevat portit. Yritetty ottaa yhteys, mutta ei vastausta.
+Vaikuttaisi, että nyt myös MYSQL-palvelin portti on suljettu.
 
 <img width="1030" alt="scan general" src="https://github.com/AkiAleksi/h2/assets/112399816/6d593019-2ec1-4d6b-a4e5-edfac168393d">
 
@@ -162,7 +163,10 @@ Sieppauksessa näkyy TCP-pyyntöjä.
 
 # g.)
 
-<img width="1059" alt="-sV" src="https://github.com/AkiAleksi/h2/assets/112399816/c5cc8da7-5985-44e9-bee4-e7e86c38ed65">
+Käytin suodatinta. Suodatin itselleni HTTP-palvelimen. 
+
+<img width="1190" alt="xd" src="https://github.com/AkiAleksi/h2/assets/112399816/ffed14f1-e963-468d-aeeb-90f070ba9c65">
+
 
 
 
