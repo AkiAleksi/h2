@@ -4,7 +4,8 @@
 
 a.)
 
-Fuff. Ratkaise Teron ffuf-haastebinääri. Artikkelista Find Hidden Web Directories - Fuzz URLs with ffuf voi olla apua.
+Tehtävänanto:
+Can you find two URLs: Admin page and Version control related page
 
 Seurasin ohjeita ja latasi harjoitusmaalin dirfutz-1 niiden mukaan.
 Laitoin harjoitusmaalin käyntiin. Asensin ffuf ja common.txt.
