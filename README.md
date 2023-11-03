@@ -2,7 +2,7 @@
 
 31.10.2023 klo 21.51.
 
-a.)
+# a.)
 
 Tehtävänanto:
 Can you find two URLs: Admin page and Version control related page
@@ -40,20 +40,20 @@ Tehtävä ratkaistu
 
 31.10.2023 klo klo 22:30. 1.11.2023 klo 19:00.
 
-b.)
+# b.)
 
 Ffufme harjoitusmaali asennettu
 
 <img width="132" alt="asennus" src="https://github.com/AkiAleksi/h2/assets/112399816/51204403-f8d9-484d-8de7-be8ccd11f8f7">
 
-Basic content disvovery
+# Basic content disvovery
 
 Ajoin komennon ffuf -w ~/words/common.txt -u http://ffuf.me/cd/basic/FUZZ. Pitäis löytyä class ja development.log.
 <img width="394" alt="eka" src="https://github.com/AkiAleksi/h2/assets/112399816/90cb62ac-b80f-41bd-9b34-dad05b839800">
 
 class ja development.log tiedostot löytyi.
 
-Content Discovery With Recursion
+# Content Discovery With Recursion
 
 Ajoin komennon ffuf -w ~/words/common.txt -recursion -u http://ffuf.me/cd/recursion/FUZZ
 Pitäisi löytyä /admin, /admin/users ja /admin/users/96
@@ -62,7 +62,8 @@ Pitäisi löytyä /admin, /admin/users ja /admin/users/96
 
 Löytyi!
 
-Content Discovery With File Extensions
+# Content Discovery With File Extensions
+
 Ajoin komennon ffuf -w ~/wordlists/common.txt -e .log -u http://ffuf.me/cd/ext/logs/FUZZ.
 Pitäisi löytyä /logs/users.log
 
@@ -70,7 +71,8 @@ Pitäisi löytyä /logs/users.log
 
 Löytyi!
 
-No 404 status
+# No 404 status
+
 Ajoin ensin komennon ffuf -w ~/wordlists/common.txt -u http://ffuf.me/cd/no404/FUZZ.
 Sen jälkeen filtteröin 669 bitillä. 
 <img width="404" alt="4" src="https://github.com/AkiAleksi/h2/assets/112399816/a57b1dea-7953-47ed-9874-9daf505230af">
@@ -86,7 +88,7 @@ Sen jälkeen filtteröin 669 bitillä.
 Sain halutun vastauksen secret.
 
 
-Param Mining
+# Param Mining
 
 Ajoin komennon ffuf -w ~/words/parameters.txt -u http://ffuf.me/cd/param/data?FUZZ=1
 
@@ -94,13 +96,14 @@ Ajoin komennon ffuf -w ~/words/parameters.txt -u http://ffuf.me/cd/param/data?FU
 
 Löysin puuttuvan parametrin debug.
 
-Rate Limited
+# Rate Limited
 
 <img width="476" alt="fail1" src="https://github.com/AkiAleksi/h2/assets/112399816/80c292fe-0b87-4552-bfd2-ec26c7fe1424">
 
 1.11.2023 klo 20:27. 2.11.2023 klo 11:34.
 
-c.)
+# c.)
+
 Porttiskannaa paikallinen kone (127.0.0.2 tms), sieppaa liikenne snifferillä, analysoi.
 nmap TCP connect scan -sT "Oma ip-osoite"
 
