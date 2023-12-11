@@ -281,6 +281,8 @@ Tehtävät tehty 2.11.2023 klo 18:10.
 
 # Lähteet
 
+https://www.youtube.com/watch?v=lb1Dw0elw0Q
+
 https://windowsbulletin.com/fi/suorita-verkkoporttiskannaus-porttiskannerilla/
 
 https://chat.openai.com/auth/login
